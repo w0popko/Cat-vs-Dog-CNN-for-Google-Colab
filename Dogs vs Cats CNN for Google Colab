@@ -1,6 +1,5 @@
 
-##This is my Google Colab version of simple CNN dogs vs cats. The dataset is from Kaggle and mounted via Google Drive. I also fixed the dimensions problem with adding 
-## conv2d and maxpool layers
+##This is my Google Colab version of simple CNN dogs vs cats. The dataset is from Kaggle and mounted via Google Drive. I also fixed the dimensions problem 
 
 ### To run this code without graph execution error you need to have your GPU on. 
 
